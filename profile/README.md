@@ -1,5 +1,7 @@
 ## 헬스장 줄서기 앱 몇세트 남으셨어요?의 리포지토리입니다.
 
+![image](https://github.com/user-attachments/assets/c3a4fcec-9d97-4e12-8d58-07e53b8265db)
+
 <!--
 
 **Here are some ideas to get you started:**
