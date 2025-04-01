@@ -1,6 +1,7 @@
 ## 줄서기 앱 Wait:It의 리포지토리입니다.
 
-![image](https://github.com/user-attachments/assets/c3a4fcec-9d97-4e12-8d58-07e53b8265db)
+
+![a89b53cf-24de-4ef1-a050-49d6243997db](https://github.com/user-attachments/assets/5e1419b9-7b07-4c86-bf4e-2104e5f8dcc0)
 
 <!--
 
